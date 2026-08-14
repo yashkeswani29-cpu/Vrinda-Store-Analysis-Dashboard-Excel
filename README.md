@@ -23,8 +23,6 @@ This project is an interactive Excel dashboard analyzing Vrinda Store sales perf
 - Pivot Charts
 - Slicers
 
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
 
 ## 🎯 Business Use Case
 Helps stakeholders understand:
